@@ -93,3 +93,4 @@
 * [Norsk bokmål (Norge)](nb-no/)
 * [ລາວ (ລາວ)](lo-la/)
 * [ខ្មែរ (កម្ពុជា)](km-kh/)
+* [Gàidhlig (An Rìoghachd Aonaichte)](gd-gb/)
