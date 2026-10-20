@@ -96,3 +96,4 @@
 * [Gàidhlig (An Rìoghachd Aonaichte)](gd-gb/)
 * [Українська (світ)](uk-001/)
 * [עברית (העולם)](he-001/)
+* [Bahasa Melayu (Dunia)](ms-001/)
