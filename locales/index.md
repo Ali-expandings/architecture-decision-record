@@ -94,3 +94,4 @@
 * [ລາວ (ລາວ)](lo-la/)
 * [ខ្មែរ (កម្ពុជា)](km-kh/)
 * [Gàidhlig (An Rìoghachd Aonaichte)](gd-gb/)
+* [Українська (світ)](uk-001/)
