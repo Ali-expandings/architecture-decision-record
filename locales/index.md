@@ -106,3 +106,4 @@
 * [kernewek (Bys)](kw-001/)
 * [Scots (Unitit Kinrick)](sco-gb/)
 * [Scots (Warld)](sco-001/)
+* [Euskara (Espainia)](eu-es/)
