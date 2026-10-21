@@ -42,7 +42,7 @@ under another name) fail the audit and the sync, and are deleted.
 | `el-cy` | `el_CY` | Ελληνικά (Κύπρος) |
 | `el-gr` | `el_GR` | Ελληνικά (Ελλάδα) |
 | `en-001` | `en` | English |
-| `en-gb` | `en_GB` | English (United Kingdom) |
+| `en-gb` | `en_GB` | English (Great Britain) |
 | `en-ie` | `en_IE` | English (Ireland) |
 | `en-us` | `en_US` | English (United States) |
 | `es-001` | `es_001` | español (Mundo) |
@@ -111,7 +111,7 @@ under another name) fail the audit and the sync, and are deleted.
 | `ro-ro` | `ro_RO` | română (România) |
 | `ru-001` | `ru_001` | русский (весь мир) |
 | `sco-001` | `sco_001` | Scots (Warld) |
-| `sco-gb` | `sco_GB` | Scots (Unitit Kinrick) |
+| `sco-gb` | `sco_GB` | Scots (Great Britain) |
 | `sk-001` | `sk_001` | slovenčina (svet) |
 | `sk-sk` | `sk_SK` | slovenčina (Slovensko) |
 | `sl-001` | `sl_001` | slovenščina (svet) |
