@@ -103,3 +103,4 @@
 * [粵語 (世界)](yue-001/)
 * [吴语 (世界)](wuu-001/)
 * [kernewek (Rywvaneth Unys)](kw-gb/)
+* [kernewek (Bys)](kw-001/)
