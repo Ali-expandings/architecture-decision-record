@@ -99,3 +99,4 @@
 * [Bahasa Melayu (Dunia)](ms-001/)
 * [ಕನ್ನಡ (ಪ್ರಪಂಚ)](kn-001/)
 * [Filipino (mundo)](tl-001/)
+* [Naijá (Wold)](pcm-001/)
