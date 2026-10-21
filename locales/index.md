@@ -98,3 +98,4 @@
 * [עברית (העולם)](he-001/)
 * [Bahasa Melayu (Dunia)](ms-001/)
 * [ಕನ್ನಡ (ಪ್ರಪಂಚ)](kn-001/)
+* [Filipino (mundo)](tl-001/)
