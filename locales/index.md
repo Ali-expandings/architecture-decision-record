@@ -104,3 +104,5 @@
 * [吴语 (世界)](wuu-001/)
 * [kernewek (Rywvaneth Unys)](kw-gb/)
 * [kernewek (Bys)](kw-001/)
+* [Scots (Unitit Kinrick)](sco-gb/)
+* [Scots (Warld)](sco-001/)
