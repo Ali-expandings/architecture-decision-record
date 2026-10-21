@@ -107,3 +107,7 @@
 * [Scots (Unitit Kinrick)](sco-gb/)
 * [Scots (Warld)](sco-001/)
 * [Euskara (Espainia)](eu-es/)
+* [Gàidhlig (An Saoghal)](gd-001/)
+* [ខ្មែរ (ពិភពលោក)](km-001/)
+* [ລາວ (ໂລກ)](lo-001/)
+* [Norsk bokmål (Verden)](nb-001/)
