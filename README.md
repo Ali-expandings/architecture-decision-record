@@ -547,6 +547,8 @@ Tools:
 
 - [kgai - append-only decision log for AI coding agents, a machine-readable companion to ADR files](https://github.com/kgaidev/kgai)
 
+- [wise-men-flash - a Claude Code skill that puts one hard decision to three subagents, one of them a Devil's Advocate, and returns a checked decision memo that keeps the strongest case against its own recommendation](https://github.com/Ali-expandings/wise-men-flash)
+
 Company-Specific Guidance:
 
 - [Amazon: AWS Prescriptive Guidance: ADR Process](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/adr-process.html)
